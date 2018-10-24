@@ -1,4 +1,5 @@
-# [wiki](https://github.com/astralship/wiki/wiki)
+# [wiki](https://gitlab.com/astralship/astralship-wiki/wikis/home)
 Sharing knowledge, working together, getting stuff done.
 
-Go to wiki tab: https://github.com/astralship/wiki/wiki
+The wiki is being migrated over to gitlab
+Go to the new wiki: https://github.com/astralship/wiki/wiki
